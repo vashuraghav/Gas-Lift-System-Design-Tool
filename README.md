@@ -1,6 +1,6 @@
 # Gas-Lift-System-Design-Tool
 
-This software is made in Virtual Basic Application (VBA) of Microsoft Excel 2016. It is used to design intermittent gas lift installation system, based on Constant Surface Closing Pressure procedure. A common design procedure for installations with single-point gas injection uses a constant surface closing pressure for all valves in the unloading valve string.
+This software is developed in Virtual Basic Application (VBA) of Microsoft Excel 2016. It is used to design intermittent gas lift installation system, based on Constant Surface Closing Pressure procedure. A common design procedure for installations with single-point gas injection uses a constant surface closing pressure for all valves in the unloading valve string.
 
 ![Software UI image 1](https://github.com/vashuraghav/Gas-Lift-System-Design-Tool/blob/master/images/1.png)
 
@@ -47,4 +47,4 @@ This was my research project during my summer internship at Institute of Oil & G
 Vashu Raghav (vashu.raghavism@gmail.com)
 
 ## Note
-Unfortunately, I don't have the code, lost during my Hard Drive failure back in college. But, one can refer to the report to get the gist and how one can develop a UI based program for Oil & Gas Industry especially in Artficial Lift & its Simultations. 
+Unfortunately, I don't have the code, lost during my computer hard drive failure back in college. But, one can refer to the report to get the gist and how one can develop a UI based program for Oil & Gas Industry especially in Artficial Lift & its Simultations. 
