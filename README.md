@@ -34,7 +34,9 @@ This was my research project during my summer internship at Institute of Oil & G
 ![Software UI image 9](https://github.com/vashuraghav/Gas-Lift-System-Design-Tool/images/9.jpg)
 
 10.Hence the opening pressure , tubing pressure and spread will be appear in their respective column.
+
 11.If the spread is near by to Pressure Loss then your reading are correct, but if it is different then change the Surf. Open Pr. by 10 psi in assume value frame and Repeat from Step7.
+
 12. Click “Finish” button the program.
 ![Software UI image 10](https://github.com/vashuraghav/Gas-Lift-System-Design-Tool/images/10.jpg)
 
